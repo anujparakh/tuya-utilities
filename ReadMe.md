@@ -1,1 +1,0 @@
-Tuya Utilities for controlling Tuya Smart Things
